@@ -10,6 +10,7 @@
 4. 회원가입완료후 활용신청
 
 [활용신청 - 바로가기](https://www.data.go.kr/iim/api/selectDevAcountRequestForm.do?publicDataDetailPk=uddi:f295915d-d20f-4093-b67a-89437971479a_202512301435)
+[활용신청 - 바로가기](https://www.data.go.kr/iim/api/selectDevAcountRequestForm.do?publicDataDetailPk=uddi:09e397d0-7e33-4477-9fa5-88d74f1982c6_202506091331)
 
 4. 활용신청
 ![활용신청](04.%20활용신청.png)
